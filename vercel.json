@@ -10,13 +10,19 @@
       ]
     }
   ],
-  "redirects": [
+  "rewrites": [
     {
       "source": "/",
       "destination": "/docs"
-    }
-  ],
-  "rewrites": [
+    },
+    {
+      "source": "/docs",
+      "destination": "/docs/index.html"
+    },
+    {
+      "source": "/docs/:path*",
+      "destination": "/docs/:path*"
+    },
     {
       "source": "/:path*",
       "destination": "/docs/:path*"
