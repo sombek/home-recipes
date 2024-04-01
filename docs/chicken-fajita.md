@@ -2,7 +2,8 @@
 
 ## Main Ingredients
 - 1 chicken breast (sliced)
-![Chicken Breast](/img.png ':size=100') 
+![Chicken Breast](/img.png ':size=100')
+- 2 garlic cloves (minced)
 - 1 onion (sliced)
 - 1 bell pepper (sliced) => 1/2 red 1/2 green if available
 ![Bell Pepper](/images/fajita/onion.png ':size=100') 
@@ -32,9 +33,10 @@
 ## Instructions For Vegetables
 1. Add the onion and bell pepper to the pan.
 2. Add the remaining seasoning.
-3. Cook until the vegetables are soft.
-4. Add the chicken back to the pan.
-5. Mix everything together.
+3. Add the garlic.
+4. Cook until the vegetables are soft.
+5. Add the chicken back to the pan.
+6. Mix everything together.
 
 ## Serving
 - Serve with tortillas, Cheese
