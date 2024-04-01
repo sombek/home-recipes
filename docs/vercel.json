@@ -1,7 +1,7 @@
 {
   "headers": [
     {
-      "source": "/docs/(.*)",
+      "source": "/(.*)",
       "headers": [
         {
           "key": "x-robots-tag",
@@ -12,8 +12,8 @@
   ],
   "redirects": [
     {
-      "source": "/docs",
-      "destination": "/"
+      "source": "/",
+      "destination": "/preview/"
     }
   ],
   "rewrites": [
