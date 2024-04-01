@@ -18,11 +18,7 @@
   ],
   "rewrites": [
     {
-      "source": "/preview/CHANGELOG.md",
-      "destination": "/CHANGELOG.md"
-    },
-    {
-      "source": "/preview/:path*",
+      "source": "/:path*",
       "destination": "/docs/:path*"
     }
   ]
