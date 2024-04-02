@@ -1,2 +1,3 @@
-- [Home](/home.md)
-- [Chicken Fajita](/chicken-fajita.md)
+  - [home](/home.md)
+  - [chicken fajita](/chicken-fajita.md)
+  - [shawerma](/shawerma.md)
