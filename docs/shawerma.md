@@ -14,7 +14,7 @@
 - 1 tablespoon coriander
 - 1 tablespoon cumin
 - 1 tablespoon allspice
-- 1 tablespoon pepper
+- 1 tablespoon black pepper
 - 3/4 teaspoon salt
 - 1/2 teaspoon turmeric
 ### Instructions
