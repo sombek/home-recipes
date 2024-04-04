@@ -1,5 +1,5 @@
   - [beef broth](/beef-broth.md)
   - [chicken fajita](/chicken-fajita.md)
   - [hijazi oat soup](/hijazi-oat-soup.md)
-  - [home](/home.md)
+  - [meat kofta](/meat-kofta.md)
   - [shawerma](/shawerma.md)
