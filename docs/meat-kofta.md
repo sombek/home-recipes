@@ -14,6 +14,7 @@
 ### Meat Instructions
 1. Mix all the ingredients together.
 2. Shape the mixture into small balls.
+![rolled-meat.png](images%2Fkofta%2Frolled-meat.png ':size=250')
 3. Pre-heat the oven to 250 degrees C Conv. Roast.
 4. Place the kofta balls on a baking tray and bake for 15 minutes.
  ![garlic](/images/baking-tray.png ':size=150')
