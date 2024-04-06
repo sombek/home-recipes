@@ -10,8 +10,10 @@
 - Olive oil
 - Onion
 - Garlic
-- Tomato paste
-- Tomato Canned
+- 2 tbsp of tomato paste
+  ![tomato paste](/images/tomato-paste.png ':size=150')
+- 1/2 cup of chopped tomatoes can
+  ![tomatoes can](/images/tomato-can.png ':size=150')
 
 
 ## Boiling the Chuchvara

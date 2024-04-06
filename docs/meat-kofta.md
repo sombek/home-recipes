@@ -23,9 +23,9 @@
 - 2 garlic cloves (minced)
   ![garlic](/images/minced-garlic.png ':size=150')
 - 2 tbsp of tomato paste
-  ![garlic](/images/tomato-paste.png ':size=150')
+  ![tomato paste](/images/tomato-paste.png ':size=150')
 - 1 cup of chopped tomatoes can
-  ![garlic](/images/tomato-can.png ':size=150')
+  ![tomatoes can](/images/tomato-can.png ':size=150')
 - A pinch of sugar
 - 1.5 cups of hot water
 - A pinch of cinnamon, salt, mixed spices, and cinnamon
