@@ -1,4 +1,4 @@
-  - [Chuchvara Soup](/Chuchvara.md)
+  - [Chuchvara Soup (شيشبرك)](/Chuchvara.md)
   - [beef broth](/beef-broth.md)
   - [chicken fajita](/chicken-fajita.md)
   - [debayza](/debayza.md)
