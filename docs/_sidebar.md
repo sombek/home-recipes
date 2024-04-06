@@ -2,6 +2,6 @@
   - [beef Broth 🥩](/beef-broth.md)
   - [Chicken Fajita 🐓](/chicken-fajita.md)
   - [Debayza (دبيازة) 🥮](/debayza.md)
-  - [White Oat Soup (شوربة حب بيضاء) 🍲](/Hijazi-Oat-Soup.md)
+  - [White Oat Soup (شوربة حب بيضاء) 🍲](/hijazi-oat-soup.md)
   - [Meat Balls 🍝](/meat-kofta.md)
   - [Shawerma 🥙](/shawerma.md)
