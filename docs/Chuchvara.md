@@ -1,4 +1,4 @@
-# Chuchvara (شيشبرك)
+# Chuchvara Soup (شيشبرك)
 ![frozen-Chuchvara.png](images%2FChuchvara%2Ffrozen-Chuchvara.png)
 
 
