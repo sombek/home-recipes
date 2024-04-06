@@ -1,10 +1,11 @@
 # Chuchvara Soup (شيشبرك)
 
-![frozen-Chuchvara.png](images%2FChuchvara%2Ffrozen-Chuchvara.png)
-
+![soup.jpg](images%2FChuchvara%2Fsoup.jpg ':size=400')
 ## Ingredients
 
 - Frozen Chuchvara
+  ![frozen-Chuchvara.png](images%2FChuchvara%2Ffrozen-Chuchvara.png ':size=250')
+
 - Chicken broth / Maggi cube + water
 - Salt
 - Black pepper
