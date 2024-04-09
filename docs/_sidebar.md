@@ -6,3 +6,5 @@
   - [Meat Balls 🍝](/meat-kofta.md)
   - [Shawerma 🥙](/shawerma.md)
   - [Healthy Saleeq](saleeq-chicken-breasts.md)
+
+  - [Eid Liver](eid-liver.md)
