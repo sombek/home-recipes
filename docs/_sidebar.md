@@ -5,6 +5,6 @@
   - [White Oat Soup (شوربة حب بيضاء) 🍲](/hijazi-oat-soup.md)
   - [Meat Balls 🍝](/meat-kofta.md)
   - [Shawerma 🥙](/shawerma.md)
-  - [Healthy Saleeq](saleeq-chicken-breasts.md)
+  - [Saleeq](saleeq-chicken-breasts.md)
 
   - [Eid Liver](eid-liver.md)
