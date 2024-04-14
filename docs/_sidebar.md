@@ -16,3 +16,5 @@
   - [Tahini Sauce 🫙](tahini-sauce.md)
 
   - [Chicken-Satay](Chicken-Satay.md)
+
+  - [butter-chicken](butter-chicken.md)
