@@ -1,4 +1,6 @@
 # Butter Chicken
+![img_15.png](img_15.png ':size=300')
+
 
 ## Marinade Ingredients
 - 1/2 cup plain Greek yogurt
