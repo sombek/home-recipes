@@ -48,6 +48,6 @@ Cover and chill 15min and up to 3.
   - ![img_14.png](img_14.png ':size=300')
 
 - Add chicken and accumulated juices to pot.
-- Add 1 cup water and bring to a simmer.
+- Add 1/2 cup water and bring to a simmer if needed to thin sauce.
 - Reduce heat and cook, partially covered, until chicken is cooked through, 20–25 minutes.
 
