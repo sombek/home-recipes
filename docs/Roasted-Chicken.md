@@ -6,7 +6,8 @@
 - 1/4 Cup Olive Oil
 - Dry Thyme
   - ![img_17.png](img_17.png ':size=150')
-- 1 Head of Garlic
+- 1 Head of Garlic cut cross-wise
+  - ![img_20.png](img_20.png ':size=200')
 - Salt
 - Pepper
 
