@@ -22,3 +22,5 @@
   - [Roasted-Chicken](Roasted-Chicken.md)
 
   - [beef-macroni](beef-macroni.md)
+
+  - [lentil-soup](lentil-soup.md)
