@@ -10,6 +10,7 @@
 - 5 cloves garlic, peeled and minced
 - 1 Maggi cube + 4 cups water
 - 1 1/2 cups red lentils, rinsed
+  - ![img_22.png](img_22.png ':size=150')
 - 1/2 cup corn
 - 2 teaspoons ground cumin
 - 1 teaspoon curry powder
