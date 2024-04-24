@@ -24,3 +24,5 @@
   - [beef-macroni](beef-macroni.md)
 
   - [lentil-soup](lentil-soup.md)
+
+  - [grilled-chicken-mash-potato-gravy](grilled-chicken-mash-potato-gravy.md)
