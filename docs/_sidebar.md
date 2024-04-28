@@ -28,3 +28,5 @@
   - [grilled-chicken-mash-potato-gravy](grilled-chicken-mash-potato-gravy.md)
 
   - [orange-chicken](orange-chicken.md)
+
+  - [Bukhari-Rice](Bukhari-Rice.md)
