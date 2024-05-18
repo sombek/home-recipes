@@ -32,7 +32,10 @@
 - cook for 2 minutes
 - serve hot
 ![img_26.png](img_26.png ':size=400')
-
+---
+# Spaghetti 
+## Ingredients
+- spaghetti
 
 ---
 
