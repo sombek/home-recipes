@@ -32,3 +32,5 @@
   - [Bukhari-Rice](Bukhari-Rice.md)
 
   - [creamy-fish](creamy-fish.md)
+
+  - [wrapped-mantu](wrapped-mantu.md)
