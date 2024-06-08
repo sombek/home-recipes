@@ -34,3 +34,5 @@
   - [creamy-fish](creamy-fish.md)
 
   - [wrapped-mantu](wrapped-mantu.md)
+
+  - [beef-stew](beef-stew.md)
