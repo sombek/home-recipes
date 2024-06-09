@@ -16,21 +16,22 @@
 - 3 cups boiling water
 - 2 tbsp tomato paste
 - 1 tsp fresh thyme
+- 6 fresh small mushrooms, quartered
 - 2 tbsp fresh parsley, finely chopped
 - 2 bay leaves
-- 500g small washed potatoes cut into halves
+- 4 washed potatoes cut into halves
 
 ## Instructions
 
 - Preheat oven to 175°C
 - Heat olive oil in a large oven-safe pot over medium-high heat
 - Add beef and cook until evenly browned
-  - ![img_32.png](img_32.png ':size=200')
+    - ![img_32.png](img_32.png ':size=200')
 - Remove beef and set aside
 
 ### For the stew
 
-- Add carrots, onion, and garlic to the pot
+- Add carrots, onion, mushrooms, and garlic to the pot
 - Season with salt and pepper
 - Add tomato paste and cook for 2 minutes
 - Add flour and stir until vegetables are evenly coated
