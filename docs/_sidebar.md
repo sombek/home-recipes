@@ -38,3 +38,5 @@
   - [beef-stew](beef-stew.md)
 
   - [tuna-sandwich](tuna-sandwich.md)
+
+  - [eggplant-fatta](eggplant-fatta.md)
