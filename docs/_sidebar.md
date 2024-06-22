@@ -40,3 +40,5 @@
   - [tuna-sandwich](tuna-sandwich.md)
 
   - [eggplant-fatta](eggplant-fatta.md)
+
+  - [potato-with-herbs](potato-with-herbs.md)
