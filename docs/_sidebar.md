@@ -44,3 +44,5 @@
   - [potato-with-herbs](potato-with-herbs.md)
 
   - [beef-mac](beef-mac.md)
+
+  - [hijazi-beef-gallete](hijazi-beef-gallete.md)
