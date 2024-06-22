@@ -12,7 +12,7 @@
 - Pepper
 
 ## Instructions
-- Preheat oven to 200c On Conv. Roast
+- Preheat oven to 140c On Conv. Roast
 - Cut lemon in half and remove seeds
 - Cut garlic in half
 - Pat chicken dry with paper towels
@@ -31,4 +31,4 @@
 
 - Insert the thermometer into the thickest part of the thigh
   - ![img_19.png](img_19.png ':size=300')
-- Roast until the thermometer reads **165f** about 1 hour
+- Roast until the thermometer reads **180F** 
