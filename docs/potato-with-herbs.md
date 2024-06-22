@@ -22,8 +22,9 @@
 - Mix all the ingredients together
 - Brush the potatoes with the sauce
   - ![img_34.png](img_34.png ':size=200')
-- On broil mode, put the potatoes in the oven until golden brown 
-- After 5 minutes, sprinkle some cheese on top (optional)
+- On broil High mode, put the potatoes in the oven until golden brown
+- Cook for 10 minutes
+- After 10 minutes, sprinkle some cheese on top (optional)
   - Parmesan cheese or any cheese available 
 - Put it back in the oven until the cheese is melted
 
