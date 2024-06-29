@@ -2,7 +2,7 @@
 ![img_25.png](img_25.png ':size=300')
 
 
-## Ingredients
+## Ingredients 📝
 - 1 Whole Chicken
 - 1 Cup Basmati Rice
 - 1 Can of tomato

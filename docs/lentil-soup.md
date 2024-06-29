@@ -2,7 +2,7 @@
 
 ![img_21.png](img_21.png ':size=300')
 
-## Ingredients
+## Ingredients 📝
 
 - 1 tablespoon olive oil
 - 1 medium white onion, peeled and diced

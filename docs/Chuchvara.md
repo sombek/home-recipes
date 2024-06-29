@@ -1,7 +1,7 @@
 # Chuchvara Soup (شيشبرك)
 
 ![soup.jpg](images%2FChuchvara%2Fsoup.jpg ':size=400')
-## Ingredients
+## Ingredients 📝
 
 - Frozen Chuchvara
   ![frozen-Chuchvara.png](images%2FChuchvara%2Ffrozen-Chuchvara.png ':size=250')

@@ -1,6 +1,6 @@
 # Beef broth
 Ref: https://www.youtube.com/watch?v=6GHwG1y-NE0
-## Ingredients
+## Ingredients 📝
 - 1 plate of bones 
 - 5-6 foot chicken
 - 1/2 cup of water

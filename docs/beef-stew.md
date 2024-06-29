@@ -2,7 +2,7 @@
 
 ![img_31.png](img_31.png ':size=300')
 
-## Ingredients
+## Ingredients 📝
 
 - 1 tbsp olive oil
 - Beef chuck, cut into 1-inch cubes

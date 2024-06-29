@@ -1,6 +1,6 @@
 # Tuna Sandwich
 
-## Ingredients
+## Ingredients 📝
 
 - 1 can of tuna
 - 1 tablespoon of mayonnaise

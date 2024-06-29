@@ -1,6 +1,6 @@
 # Eggplant fatta
 
-## Ingredients
+## Ingredients 📝
 
 - 3-4 eggplants
 - 1-2 potatoes cut into small cubes (optional)

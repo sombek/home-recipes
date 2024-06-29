@@ -60,7 +60,7 @@ Cover and chill 15min and up to 3 hours or overnight.
 
 # Indian Rice
 
-## Ingredients
+## Ingredients 📝
 
 - 1 cup basmati rice
 - 1 tablespoons olive oil
@@ -90,7 +90,7 @@ Cover and chill 15min and up to 3 hours or overnight.
 
 ![img_40.png](img_40.png ':size=300')
 
-## Ingredients
+## Ingredients 📝
 
 - 1 package Greek yogurt
 - 1 cucumber finely diced

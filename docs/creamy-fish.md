@@ -2,7 +2,7 @@
 
 ![img_27.png](img_27.png ':size=350')
 
-## Ingredients
+## Ingredients 📝
 
 - 1 fish fillet bag
 - 1/2 cup of Shrimp 🦐 (optional)
@@ -45,7 +45,7 @@
 
 # Spaghetti
 
-## Ingredients
+## Ingredients 📝
 
 - spaghetti
 
@@ -55,7 +55,7 @@
 
 ![img_29.png](img_29.png ':size=300')
 
-## Ingredients
+## Ingredients 📝
 
 - 3 large carrots
 - 2 zucchinis (optional)

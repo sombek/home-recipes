@@ -1,6 +1,6 @@
 # Saleeq White Chicken Breasts
 
-## Ingredients
+## Ingredients 📝
 - Box of chicken breasts (Cut in half fillet)
 - 1 Cup American rice (Golden Parboiled)
   - ![img_6.png](img_6.png ':size=100')

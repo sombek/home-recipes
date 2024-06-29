@@ -2,7 +2,7 @@
 This sauce is a great addition to many dishes, such as Falafel, shawerma, and kofta. It is easy to make and can be stored in the fridge for up to a week.
 
 
-## Ingredients
+## Ingredients 📝
 - 1/2 cup of tahini
   - ![img_13.png](img_13.png ':size=150')
 - juice of 1 lemon

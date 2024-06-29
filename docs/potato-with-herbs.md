@@ -1,6 +1,6 @@
 # Baked Potato with herbs
 
-## Ingredients
+## Ingredients 📝
 - 3 potatoes 
 
 ### Brushing sauce

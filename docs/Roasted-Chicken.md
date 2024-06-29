@@ -1,6 +1,6 @@
 # Oven Roasted Chicken
 
-## Ingredients
+## Ingredients 📝
 - 1 Whole Chicken
 - 1 Lemon
 - 1/4 Cup Olive Oil

@@ -1,7 +1,7 @@
 # Hijazi Oat Soup (شوربة حب) White
 ![habb-soup.png](images%2Fhabb-soup%2Fhabb-soup.png ':size=400')
 
-## Ingredients
+## Ingredients 📝
 - 1 cup of حب (oats)
 ![oats.png](images%2Fhabb-soup%2Foats.png ':size=150')
 - Onion

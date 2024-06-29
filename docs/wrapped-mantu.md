@@ -1,6 +1,6 @@
 # Wrapped Mantu 
 
-## Ingredients
+## Ingredients 📝
 - 1 box of ground beef
 - 1 pack of dough wrappers
 - 1 onion, chopped
