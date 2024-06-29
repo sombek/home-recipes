@@ -6,6 +6,10 @@ This sauce is a great addition to many dishes, such as Falafel, shawerma, and ko
 - 1/2 cup of tahini
   - ![img_13.png](img_13.png ':size=150')
 - juice of 1 lemon
+  - Use vinegar if not available 
+    - if white vinegar, use 1/4 cup
+    - if apple cider vinegar, use 1/2 cup
+    - if black vinegar, use 1/4 cup
 - 1/4 cup of mayonnaise
 - 1/4 cup of greek yogurt
 - 2 tbsp water
