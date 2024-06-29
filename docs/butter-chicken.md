@@ -1,4 +1,4 @@
-# Butter Chicken
+# Butter Chicken 🧈
 
 ![img_15.png](img_15.png ':size=300')
 

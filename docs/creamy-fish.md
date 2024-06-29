@@ -1,4 +1,4 @@
-# Creamy fish recipe
+# Creamy Fish 🐟 & Shrimp 🦐
 
 ![img_27.png](img_27.png ':size=350')
 
