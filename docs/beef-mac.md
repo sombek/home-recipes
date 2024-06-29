@@ -1,4 +1,4 @@
-# Beef Macaroni
+# Beef Macaroni 🍝
 
 ## Tomato Sauce Ingredients
 

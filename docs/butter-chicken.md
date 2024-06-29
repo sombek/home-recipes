@@ -86,3 +86,21 @@ Cover and chill 15min and up to 3 hours or overnight.
 - Reduce heat to low (1-2) and cook, for **15 minutes**
 - Remove from heat and let sit for **5 minutes**
 
+# Raita Sauce
+
+![img_40.png](img_40.png ':size=300')
+
+## Ingredients
+
+- 1 package Greek yogurt
+- 1 cucumber finely diced
+- 1/4 cup minced cilantro
+- 1/2 tsp mint dried or 2 sprigs fresh mint
+- 1/2 tsp sea
+- Lemon juice to taste
+
+## Instructions
+
+- Mix all ingredients in a bowl
+- Serve chilled
+

@@ -12,7 +12,7 @@
 - Pepper
 
 ## Instructions
-- Preheat oven to 140c On Conv. Roast
+- **Preheat oven to 140c On Conv. Roast**
 - Cut lemon in half and remove seeds
 - Cut garlic in half
 - Pat chicken dry with paper towels

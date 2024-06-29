@@ -1,48 +1,50 @@
-  - [Chuchvara Soup (شيشبرك) 🍜](/Chuchvara.md)
-  - [beef Broth 🥩](/beef-broth.md)
-  - [Chicken Fajita 🐓](/chicken-fajita.md)
-  - [Debayza (دبيازة) 🥮](/debayza.md)
-  - [White Oat Soup (شوربة حب بيضاء) 🍲](/hijazi-oat-soup.md)
-  - [Meat Balls 🍝](/meat-kofta.md)
-  - [Shawerma 🥙](/shawerma.md)
-  - [Saleeq](saleeq-chicken-breasts.md)
+Daily Dinner Recipes
 
-  - [Eid Liver](eid-liver.md)
+- [Creamy Fish 🐟 & Shrimp 🦐](/creamy-fish.md)
+- [Butter Chicken 🧈](butter-chicken.md)
+- [Beef Stew 🥩](beef-stew.md)
+- [Chicken Satay 🍢](Chicken-Satay.md)
+- [Chicken Fajita 🐓](/chicken-fajita.md)
+- [Shawerma 🥙](/shawerma.md)
+- [Breakfast Biscuit 🍞](breakfast-biscuit.md)
+- [Roasted Chicken 🍗](Roasted-Chicken.md)
+-
 
-  - [Breakfast Biscuit 🍞](breakfast-biscuit.md)
+---
+Office Dinner Prep 💼
 
-  - [Postpartum Recipes 👩🏻‍🍼](Postpartum.md)
+- [Beef Macaroni 🍝](beef-mac.md)
 
-  - [Tahini Sauce 🫙](tahini-sauce.md)
+---
 
-  - [Chicken-Satay](Chicken-Satay.md)
+Salads & Sides
 
-  - [butter-chicken](butter-chicken.md)
+- [Grilled broccoli salad 🥦](Grilled-broccoli-salad.md)
+- [Tahini Sauce 🫙](tahini-sauce.md)
+- [Roasted Potato With Herbs 🥔](potato-with-herbs.md)
+- [Eggplant Fatta 🍆](eggplant-fatta.md)
+-
 
-  - [Roasted-Chicken](Roasted-Chicken.md)
+---
+Soups 🍲
 
-  - [beef-macroni](beef-macroni.md)
+- [Chuchvara Soup (شيشبرك) 🍜](/Chuchvara.md)
+- [White Oat Soup (شوربة حب بيضاء) 🍲](/hijazi-oat-soup.md)
+- [Lentil Soup 🍲](lentil-soup.md)
+-
 
-  - [lentil-soup](lentil-soup.md)
+---
 
-  - [grilled-chicken-mash-potato-gravy](grilled-chicken-mash-potato-gravy.md)
+Others 🍽️
 
-  - [orange-chicken](orange-chicken.md)
+- [beef Broth 🥩](/beef-broth.md)
+- [Debayza (دبيازة) 🥮](/debayza.md)
+- [Saleeq](saleeq-chicken-breasts.md)
+- [Eid Liver](eid-liver.md)
+- [grilled-chicken-mash-potato-gravy](grilled-chicken-mash-potato-gravy.md)
+- [orange-chicken](orange-chicken.md)
+- [Bukhari-Rice](Bukhari-Rice.md)
+- [wrapped-mantu](wrapped-mantu.md)
+- [tuna-sandwich](tuna-sandwich.md)
+- [hijazi-beef-gallete](hijazi-beef-gallete.md)
 
-  - [Bukhari-Rice](Bukhari-Rice.md)
-
-  - [creamy-fish](creamy-fish.md)
-
-  - [wrapped-mantu](wrapped-mantu.md)
-
-  - [beef-stew](beef-stew.md)
-
-  - [tuna-sandwich](tuna-sandwich.md)
-
-  - [eggplant-fatta](eggplant-fatta.md)
-
-  - [potato-with-herbs](potato-with-herbs.md)
-
-  - [beef-mac](beef-mac.md)
-
-  - [hijazi-beef-gallete](hijazi-beef-gallete.md)
