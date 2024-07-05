@@ -33,13 +33,7 @@ def update_progress(completed, message=None, width=40):
 WIDTH = 800
 HEIGHT = 600
 
-directory = "./docs/images"
-
-# ensure target directory is reachable
-if not os.path.exists(directory):
-    print("Unable to find directory: ", directory)
-    sys.exit(1)
-
+directory = "./docs"
 output_dir = directory + "/resized"
 
 if not os.path.exists(output_dir):
@@ -51,6 +45,8 @@ print("\nResizing images in", directory, "\n")
 error_log = []
 img_files = os.listdir(directory)
 img_files.remove("resized")
+# after finishing delete the old images and move the new ones to the original directory
+history = []
 for index, infile in enumerate(img_files):
     outfile = output_dir + "/" + infile
     if not os.path.exists(outfile):
@@ -71,10 +67,22 @@ for index, infile in enumerate(img_files):
                 im.save(outfile, "PNG")
             else:
                 im.save(outfile, "JPEG")
+
+            history.append({
+                "old": directory + "/" + infile,
+                "new": outfile
+            })
+
         except IOError:
             error_log.append("cannot create resized image for '%s'" % infile)
     # display progress bar
     update_progress((index + 1) / len(img_files), message="Resizing")
+
+# remove the old images
+for index, img in enumerate(history):
+    os.remove(img["old"])
+    os.rename(img["new"], img["old"])
+    update_progress((index + 1) / len(img_files), message="Moving")
 
 # check if any images failed to be resized
 if len(error_log) == 0:
