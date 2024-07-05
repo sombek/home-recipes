@@ -14,7 +14,7 @@ Office Dinner Prep 💼
 
 - [Beef Macaroni 🍝](beef-mac.md)
 - [Breakfast Biscuit 🍞](breakfast-biscuit.md)
-- 
+-
 
 ---
 
@@ -24,6 +24,7 @@ Salads & Sides
 - [Tahini Sauce 🫙](tahini-sauce.md)
 - [Roasted Potato With Herbs 🥔](potato-with-herbs.md)
 - [Eggplant Fatta 🍆](eggplant-fatta.md)
+- [Mexican Salsa 🍅](Mexican-Salsa.md)
 -
 
 ---
@@ -37,6 +38,7 @@ Soups 🍲
 ---
 
 Others 🍽️
+- [Chocolate Cake 🍰](choclate-cake.md)
 
 - [beef Broth 🥩](/beef-broth.md)
 - [Debayza (دبيازة) 🥮](/debayza.md)
@@ -48,4 +50,5 @@ Others 🍽️
 - [wrapped-mantu](wrapped-mantu.md)
 - [tuna-sandwich](tuna-sandwich.md)
 - [hijazi-beef-gallete](hijazi-beef-gallete.md)
+
 
