@@ -25,7 +25,7 @@ Cover and chill 15min and up to 3 hours or overnight.
 
 ## Butter Chicken Sauce Ingredients
 
-- 2 tablespoons butter
+- 1 tablespoons butter
 - 1 Cinnamon Stick
 - 3-5 Cardamom Pods
 - 2 Cloves
@@ -35,8 +35,8 @@ Cover and chill 15min and up to 3 hours or overnight.
 - 1/2 teaspoon ground turmeric
 - 1 tablespoon garam masala
 - 1 can tomatoes
-- 1/2 cup cashews
-- 1/2 Coconut milk (optional)
+- 1/4 cup cashews
+- 1/4 Coconut milk (optional)
 
 ### Instructions
 
@@ -96,7 +96,7 @@ Cover and chill 15min and up to 3 hours or overnight.
 - 1 cucumber finely diced
 - 1/4 cup minced cilantro
 - 1/2 tsp mint dried or 2 sprigs fresh mint
-- 1/2 tsp sea
+- 1/4 tsp salt
 - Lemon juice to taste
 
 ## Instructions
