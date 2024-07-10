@@ -28,7 +28,7 @@
 - Cook the potatoes in the air fryer until crispy
 - Air fryer settings: 160C for 25 minutes
 
-## Tomato Sauce Instructions
+## Tomato Sauce Instructions 🍅
 
 - In a pan add olive oil
 - Add the onion and cook until soft 5min
