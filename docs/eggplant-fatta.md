@@ -40,7 +40,7 @@
 - Cook for 15 minutes on medium heat stirring occasionally
 - Make sure the tomato is cooked and the sauce is thick
 
-## Tahini Sauce Instructions
+## Tahini Sauce Instructions 
 
 - In a bowl add 3 tsp of Tahini
 - Add 2 crushed garlic
