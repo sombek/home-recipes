@@ -1,13 +1,13 @@
 Daily Dinner Recipes
 
-- [Creamy Fish 🐟 & Shrimp 🦐](/creamy-fish.md)
 - [Butter Chicken 🧈](butter-chicken.md)
-- [Beef Stew 🥩](beef-stew.md)
-- [Chicken Satay 🍢](Chicken-Satay.md)
-- [Chicken Fajita 🐓](/chicken-fajita.md)
-- [Shawerma 🥙](/shawerma.md)
 - [Roasted Chicken 🍗](Roasted-Chicken.md)
 - [Sesame Ground Chicken 🫚](Sesame-Ground-Chicken.md)
+- [Creamy Fish 🐟 & Shrimp 🦐](/creamy-fish.md)
+- [Chicken Satay 🍢](Chicken-Satay.md)
+- [Beef Stew 🥩](beef-stew.md)
+- [Chicken Fajita 🐓](/chicken-fajita.md)
+- [Shawerma 🥙](/shawerma.md)
 -
 
 ---
