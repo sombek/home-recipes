@@ -11,7 +11,7 @@
 - 1 tsp kosher salt
 - 1 tsp black pepper
 - 1 tablespoon chili garlic sauce
-    - ![img_46.png](img_46.png ':size=300')
+    - ![img_46.png](img_46.png ':size=100')
 - 1/2 cup soy sauce
 - 2 tbsp brown sugar
 - 1–2 tablespoons sesame oil
@@ -33,7 +33,6 @@
 - Add onion and cook until soft
 - Add garlic and cook for 1 minute
 - Add ground chicken and cook until brown
-
 - Add salt and pepper
 - Add chili garlic sauce, soy sauce, brown sugar
 - Add chicken broth
