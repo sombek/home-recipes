@@ -6,7 +6,7 @@
 - 1/2 teaspoon of fish sauce
 - lime juice of 1 lime
 - 1 tablespoon of honey
-- 1 tablespoon of siracha sauce
+- 1 tablespoon of sriracha sauce
 - 2 tablespoons of ground ginger
 - 2 cloves of garlic minced
 
@@ -17,12 +17,12 @@
 
 
 ## Peanut Sauce Ingredients
-- 1 cup of coconut milk
-- 1/2 cup of peanut butter
+- 1/2 cup of coconut milk
+- 1/4 cup of peanut butter
 - 1 tablespoon of soy sauce
 - 1 tablespoon of fish sauce
 - 1 tablespoon of honey
-- 1 tablespoon of siracha sauce
+- 1 tablespoon of sriracha sauce
 - 1 tablespoon of ground ginger
 - 2 cloves of garlic minced
 - lime juice of 1 lime

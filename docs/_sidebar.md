@@ -7,6 +7,7 @@ Daily Dinner Recipes
 - [Chicken Fajita 🐓](/chicken-fajita.md)
 - [Shawerma 🥙](/shawerma.md)
 - [Roasted Chicken 🍗](Roasted-Chicken.md)
+- [Sesame Ground Chicken 🫚](Sesame-Ground-Chicken.md)
 -
 
 ---
@@ -14,7 +15,7 @@ Office Dinner Prep 💼
 
 - [Beef Macaroni 🍝](beef-mac.md)
 - [Breakfast Biscuit 🍞](breakfast-biscuit.md)
--
+- [Chicken Corn Sandwich 🌽](Chicken-Corn-Sandwich.md)
 
 ---
 
@@ -38,6 +39,7 @@ Soups 🍲
 ---
 
 Others 🍽️
+
 - [Chocolate Cake 🍰](choclate-cake.md)
 
 - [beef Broth 🥩](/beef-broth.md)
