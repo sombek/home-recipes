@@ -7,7 +7,7 @@
 - 1-2 pack of meat chunks
 - 1 cup green lentil
 - 3 Partha
-- 2 diced onions
+- 2 onions slices 
 - 6 garlic cloves grated
 - Chopped parsley and coriander for garnish
 - 1 tsp grated ginger
