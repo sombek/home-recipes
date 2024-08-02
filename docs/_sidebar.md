@@ -29,6 +29,7 @@ Salads & Sides
 -
 
 ---
+
 Soups 🍲
 
 - [Chuchvara Soup (شيشبرك) 🍜](/Chuchvara.md)
@@ -38,6 +39,11 @@ Soups 🍲
 
 ---
 
+Weekend Specials 🎉
+
+- [Morocco Rfissa 🇲🇦](morocco-rfissa.md)
+
+---
 Others 🍽️
 
 - [Chocolate Cake 🍰](choclate-cake.md)
