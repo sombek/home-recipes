@@ -12,7 +12,6 @@
 - 4 sticks of dill (chopped)
 - 1 tablespoon of butter
 - 1 tablespoon of olive oil
-- 1/2 teaspoon of salt
 - 1/2 teaspoon of black pepper
 - Juice of 1 lemon
 
