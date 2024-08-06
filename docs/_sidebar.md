@@ -39,7 +39,7 @@ Soups 🍲
 
 ---
 
-Weekend Specials 🎉
+Specials 🎉
 
 - [Morocco Rfissa 🇲🇦](Morocco-Rfissa.md)
 
