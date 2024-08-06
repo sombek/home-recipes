@@ -2,12 +2,12 @@ Daily Dinner Recipes
 
 - [Butter Chicken 🧈](butter-chicken.md)
 - [Roasted Chicken 🍗](Roasted-Chicken.md)
-- [Sesame Ground Chicken 🫚](Sesame-Ground-Chicken.md)
 - [Creamy Fish 🐟 & Shrimp 🦐](/creamy-fish.md)
 - [Chicken Satay 🍢](Chicken-Satay.md)
 - [Beef Stew 🥩](beef-stew.md)
 - [Chicken Fajita 🐓](/chicken-fajita.md)
 - [Shawerma 🥙](/shawerma.md)
+- [Sesame Ground Chicken With Sushi Rice 🍚](Sesame-Ground-Chicken.md)
 -
 
 ---
