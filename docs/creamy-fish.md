@@ -14,12 +14,14 @@
 - 1 tablespoon of olive oil
 - 1/2 teaspoon of black pepper
 - Juice of 1 lemon
+- Zest of 1 lemon
+    - ![img_53.png](img_53.png ':size=150')
 
 ## Instructions
 
 - dry the fish fillet with a paper towel
     - Do the same with the shrimp if using
-- season with salt and pepper
+- season with black pepper
 
 
 - heat a pan over medium heat
@@ -33,8 +35,8 @@
 - add garlic to the pan and cook for 1 minute
 - add the chicken stock and heavy cream
 - bring to a simmer
-- add the dill and lemon juice
-- season with salt and pepper
+- add the dill and lemon juice and zest
+- season with black pepper
 - add the fish back to the pan
 - cook for 2 minutes
 - serve hot
