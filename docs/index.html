@@ -19,6 +19,7 @@
           rel="stylesheet">
     <!--    use apples font system-->
     <link rel="stylesheet" href="https://fonts.apple.com/stylesheet/stylesheet.css">
+
     <style>
         @font-face {
             font-family: "arabic-apple";
@@ -39,12 +40,19 @@
 <body>
 <div id="app"></div>
 <script>
-  window.$docsify = {
-    name: 'Home Recipes',
-    repo: 'https://github.com/sombek/home-recipes',
-    loadSidebar: true,
-  }
+    window.$docsify = {
+        name: 'Home Recipes',
+        repo: 'https://github.com/sombek/home-recipes',
+        loadSidebar: true,
+    }
 </script>
 <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+
+<script>
+    window.va = window.va || function () {
+        (window.vaq = window.vaq || []).push(arguments);
+    };
+</script>
+<script defer src="/_vercel/insights/script.js"></script>
 </body>
 </html>
