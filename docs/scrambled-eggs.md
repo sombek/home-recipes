@@ -15,7 +15,7 @@
 - Some chopped parsley 🌿
 - Some chopped coriander 🌿
 - Some chopped mint or 1tsp dry mint 🌿
-- Some chopped basil or origano or 1tsp dry basil 
+- Some chopped basil or origano or 1tsp dry basil 🌿
 
 ## Instructions 📖
 
