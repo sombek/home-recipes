@@ -18,6 +18,12 @@ Office Dinner Prep 💼
 - [Chicken Corn Sandwich 🌽](Chicken-Corn-Sandwich.md)
 
 ---
+Breakfast 🍳
+
+- [Scrambled Eggs](scrambled-eggs.md)
+-
+
+---
 
 Salads & Sides
 
