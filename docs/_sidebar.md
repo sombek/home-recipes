@@ -1,38 +1,38 @@
 Daily Dinner Recipes
 
-- [Butter Chicken 🧈](butter-chicken.md)
-- [Roasted Chicken 🍗](Roasted-Chicken.md)
-- [Creamy Fish 🐟 & Shrimp 🦐](/creamy-fish.md)
-- [Chicken Satay 🍢](Chicken-Satay.md)
-- [Beef Stew 🥩](beef-stew.md)
-- [Chicken Fajita 🐓](/chicken-fajita.md)
-- [Shawerma 🥙](/shawerma.md)
+- [🧈 Butter Chicken](butter-chicken.md)
+- [🍗 Roasted Chicken](Roasted-Chicken.md)
+- [🦐 Creamy Fish & Shrimp](/creamy-fish.md)
+- [🍢 Chicken Satay](Chicken-Satay.md)
+- [🥩 Beef Stew](beef-stew.md)
+- [🐓 Chicken Fajita](/chicken-fajita.md)
+- [🥙 Shawerma Sandwich](/shawerma.md)
 -
 
 ---
 Office Dinner Prep 💼
 
-- [Beef Macaroni 🍝](beef-mac.md)
-- [Breakfast Biscuit 🍞](breakfast-biscuit.md)
-- [Chicken Corn Sandwich 🌽](Chicken-Corn-Sandwich.md)
-- [Chicken With Sushi Rice 🍚](Sesame-Ground-Chicken.md)
+- [🍝 Beef Macaroni](beef-mac.md)
+- [🍞 Breakfast Biscuit](breakfast-biscuit.md)
+- [🌽 Chicken Corn Sandwich](Chicken-Corn-Sandwich.md)
+- [🍚 Chicken With Sushi Rice](Sesame-Ground-Chicken.md)
 -
 
 ---
 Breakfast 🍳
 
-- [Scrambled Eggs](scrambled-eggs.md)
+- [🥚 Scrambled Eggs](scrambled-eggs.md)
 -
 
 ---
 
 Salads & Sides
 
-- [Grilled broccoli salad 🥦](Grilled-broccoli-salad.md)
-- [Tahini Sauce 🫙](tahini-sauce.md)
-- [Roasted Potato With Herbs 🥔](potato-with-herbs.md)
-- [Eggplant Fatta 🍆](eggplant-fatta.md)
-- [Mexican Salsa 🍅](Mexican-Salsa.md)
+- [🥦 Grilled broccoli salad](Grilled-broccoli-salad.md)
+- [🫙 Tahini Sauce](tahini-sauce.md)
+- [🥔 Roasted Potato With Herbs](potato-with-herbs.md)
+- [🍆 Eggplant Fatta](eggplant-fatta.md)
+- [🍅 Mexican Salsa](Mexican-Salsa.md)
 -
 
 ---
@@ -41,14 +41,14 @@ Soups 🍲
 
 - [Chuchvara Soup (شيشبرك) 🍜](/Chuchvara.md)
 - [White Oat Soup (شوربة حب بيضاء) 🍲](/hijazi-oat-soup.md)
-- [Lentil Soup 🍲](lentil-soup.md)
+- [🍲 Lentil Soup](lentil-soup.md)
 -
 
 ---
 
 Specials 🎉
 
-- [Morocco Rfissa 🇲🇦](Morocco-Rfissa.md)
+- [🇲🇦 Morocco Rfissa](Morocco-Rfissa.md)
 
 ---
 Others 🍽️

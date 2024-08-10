@@ -28,7 +28,7 @@
     - (to taste, start with 1 and add more if desired)
 - 1/4 cup broth
     - (1 bag Dashi powder mixed with 1/4 cup of water)
-      - ![img_52.png](img_52.png ':size=100')
+        - ![img_52.png](img_52.png ':size=100')
     - (or 1/2 maggi cube mixed with 1/4 cup of water)
 - 1 tablespoon cornstarch
 - Sesame seeds for garnish (green onions)
@@ -46,9 +46,16 @@
 - Cook the rice in a pot with water
 - Once cooked, add 1/4 cup of rice vinegar
 
-## Steamed Broccoli Instructions 🥦
+## Steamed Broccoli Instructions 🥦 (if available)
 
 - Cut the broccoli into florets
 - Steam for 5 minutes
 - Serve with sesame seeds
 - no need to add salt, the sauce is salty enough
+
+## Office Lunch Box Portion 🍱
+
+- 150g of rice
+- 200g of chicken
+- sprinkle sesame seeds
+- sprinkle black sesame seeds
