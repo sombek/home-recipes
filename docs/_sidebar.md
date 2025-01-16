@@ -22,7 +22,7 @@ Office Dinner Prep 💼
 Breakfast 🍳
 
 - [🥚 Scrambled Eggs](scrambled-eggs.md)
--
+- [🥯 Bagel](bagel.md)
 
 ---
 
