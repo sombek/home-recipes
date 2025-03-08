@@ -42,7 +42,7 @@ Soups 🍲
 - [Chuchvara Soup (شيشبرك) 🍜](/Chuchvara.md)
 - [White Oat Soup (شوربة حب بيضاء) 🍲](/hijazi-oat-soup.md)
 - [🍲 Lentil Soup](lentil-soup.md)
--
+- [Harira Soup](harira.md)
 
 ---
 
