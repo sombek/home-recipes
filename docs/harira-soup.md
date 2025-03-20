@@ -34,7 +34,7 @@
 
 ## **Instructions**  
 
-### **1️⃣ cook the Aromatics**  
+### **1️⃣ Cook the Aromatics**  
 - Heat **olive oil** in a large pot over **medium heat**.  
 - Add **chopped onion, garlic, and celery**.  
 - Sauté for **3-4 minutes** until soft and fragrant.  
